@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url('https://img.freepik.com/premium-vector/yellow-comic-background-with-cloud-cartoon_530597-776.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#joke {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+  padding-top: 27%;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
